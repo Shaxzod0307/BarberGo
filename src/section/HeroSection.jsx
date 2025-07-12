@@ -14,8 +14,7 @@ const HeroSection = () => {
         <h2 className="text-5xl mt-10 text-white">
           LOOK YOUR <br /> BEST
         </h2>
-            <Button className="bg-yellow-main px-9 py-3 mt-10">BOOK NOW</Button>
-
+        <Button className="bg-yellow-main px-9 py-3 mt-10">BOOK NOW</Button>
       </div>
     </section>
   );
